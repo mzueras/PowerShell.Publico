@@ -6,6 +6,7 @@
       TE QUITA DE TODOS LOS GRUPOS DE TEAMS A LOS QUE PERTENECES!!!!!!!!!!!
       
       Requiere tener instalado el módulo de Teams.
+      Re
       Instalar con Install-Module -Name MicrosoftTeams
     
     .DESCRIPTION
@@ -16,7 +17,7 @@
     Remove-TeamUser : Last owner cannot be removed from the team
     Es normal, el ultimo owner no puede ser eliminado.
     
-    .URL
+    .LINK
     https://learn.microsoft.com/en-us/powershell/module/teams/get-teamuser
     https://learn.microsoft.com/en-us/powershell/module/teams/remove-teamuser
 
