@@ -1,0 +1,4 @@
+DisplayName,MailNickname,Description,Owners,Members
+"Group 1020121456","group1020121456","Description for Group 1","DiegoS@dominio.com;GradyA@dominio.com","AdeleV@dominio.com;AlexW@dominio.com"
+"Group 2020121456","group2020121456","Description for Group 2","DiegoS@dominio.com;GradyA@dominio.com","AdeleV@dominio.com;AlexW@dominio.com"
+"Group 3020121456","group3020121456","Description for Group 3","DiegoS@dominio.com;GradyA@dominio.com","AdeleV@dominio.com;AlexW@dominio.com"
